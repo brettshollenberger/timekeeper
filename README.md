@@ -1,4 +1,4 @@
 timekeeper
 ==========
 
-Model for timekeeper app
+Model and migrations for timekeeper app.
